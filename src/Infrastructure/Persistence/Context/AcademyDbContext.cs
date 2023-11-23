@@ -15,6 +15,7 @@ namespace Infrastructure.Persistence.Context
 		}
 
 		public DbSet<Test> Tests { get; set; }
+		public DbSet<ExchangeRate> ExchangeRates { get; set; }
 
 		public override Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
 		{

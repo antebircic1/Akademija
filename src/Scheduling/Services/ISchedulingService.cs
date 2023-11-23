@@ -4,6 +4,6 @@ namespace Scheduling.Services
 {
 	public interface ISchedulingService
 	{
-		Task<List<ExchangeRate>> GetExchangeRate(DateTime date);
+		Task<List<ExchangeRateViewModel>> GetExchangeRate(DateTime date);
 	}
 }

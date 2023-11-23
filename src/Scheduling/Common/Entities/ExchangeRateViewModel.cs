@@ -1,6 +1,6 @@
 ﻿namespace Scheduling.Common.Entities
 {
-	public class ExchangeRate
+	public class ExchangeRateViewModel
 	{
 		public string broj_tecajnice { get; set; }
 		public string datum_primjene { get; set; }

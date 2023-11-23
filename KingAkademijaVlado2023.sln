@@ -19,7 +19,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionIt
 		Solution Items\vlado-net od nule do produkcije.pptx = Solution Items\vlado-net od nule do produkcije.pptx
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scheduling", "src\Scheduling\Scheduling.csproj", "{92484D6E-AE2C-4138-B5CD-5A2A3D53EE7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scheduling", "src\Scheduling\Scheduling.csproj", "{92484D6E-AE2C-4138-B5CD-5A2A3D53EE7E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -56,6 +56,7 @@ Global
 		{C30E0BCB-C121-4144-9281-2B1D1B5993BD} = {127BF4BA-E2A9-433B-9A5C-611A5DB1FC6B}
 		{BB93146F-3EA6-4F87-8976-EF8721697958} = {127BF4BA-E2A9-433B-9A5C-611A5DB1FC6B}
 		{03DF1C92-9043-419D-9227-EF3D8D55E927} = {127BF4BA-E2A9-433B-9A5C-611A5DB1FC6B}
+		{92484D6E-AE2C-4138-B5CD-5A2A3D53EE7E} = {127BF4BA-E2A9-433B-9A5C-611A5DB1FC6B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AB5D6847-92D2-454F-9F92-4B6C4F0673A3}

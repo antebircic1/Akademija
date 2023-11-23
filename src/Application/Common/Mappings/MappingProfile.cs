@@ -1,6 +1,7 @@
 ﻿using Application.Common.Dtos;
 using AutoMapper;
 using Domain.Entities;
+using System.Collections.Generic;
 
 namespace Application.Common.Mappings
 {
@@ -9,8 +10,7 @@ namespace Application.Common.Mappings
 		public MappingProfile()
 		{
 			CreateMap<Test, TestDto>()
-				.ReverseMap()
-				;
+				.ReverseMap();
 		}
 	}
 }
